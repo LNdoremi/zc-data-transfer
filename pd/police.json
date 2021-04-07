@@ -1,0 +1,444 @@
+[
+    {
+        "_id": "0446b8d9-e4fd-4e56-b15b-75520611c89a",
+        "username": "卢霖",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "16a333f1-85a5-4409-beec-f7bb31da0871",
+        "username": "开发区",
+        "areaId": 14,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "226ced74-d369-44dd-be7e-d84fd18d52ba",
+        "username": "永宁",
+        "areaId": 4,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "2a6c0b1d-ca35-434c-9827-fc29b6b99524",
+        "username": "刘伟佳",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "3c32b3fd-66ed-4c99-a629-b24fb906d699",
+        "username": "仙村",
+        "areaId": 11,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "42aaa55e-6859-4332-a86e-fa7b545215a3",
+        "username": "王伟科",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "43ac898c-f1f0-4b48-b874-a22fc5377311",
+        "username": "新塘",
+        "areaId": 5,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "51ca4c17-5164-4da8-b4ee-4f717fb837b2",
+        "username": "荔湖",
+        "areaId": 12,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "5f5c5d3a-3b1c-4b17-90ef-4faf9c01ce96",
+        "username": "增江",
+        "areaId": 2,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "74fdf428-c5e7-4fbf-9a34-2e00f933af76",
+        "username": "新塘河长办主任",
+        "areaId": 5,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "754e1461-e929-4619-b624-ebc648c9addf",
+        "username": "宁西",
+        "areaId": 13,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "848d61fe-c905-4b7f-be08-19dc945de4e1",
+        "username": "admin",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "89f874af-7447-4699-bc2b-fc97fa3fc612",
+        "username": "派潭",
+        "areaId": 9,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "8d234cbe-84f1-4a98-b3a4-2c117f4a792b",
+        "username": "刘振荣",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "8f99621d-236c-46f0-92c9-411700f67a43",
+        "username": "test",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "93c0105d-e26b-47fc-ad6c-979ff31ef49d",
+        "username": "张信宇",
+        "areaId": 14,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "9c55a280-bcd0-470e-9f49-0301837f0200",
+        "username": "中新",
+        "areaId": 7,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "a300fef4-c637-461e-9996-01c19417adc4",
+        "username": "小楼",
+        "areaId": 8,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "a3e859f2-2c4a-43af-96bd-03c85b31c361",
+        "username": "荔城",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "a6123f42-181d-402a-8328-8a6db6a0b265",
+        "username": "szb",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "a9aaf081-825e-405d-8a90-c3908f0bd5ac",
+        "username": "正果",
+        "areaId": 10,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "abae9b02-516e-4a33-a6e8-be96111c17ab",
+        "username": "朱曦",
+        "areaId": 2,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "c93ea73e-77b3-4963-abef-ea0f8ba7290f",
+        "username": "朱村",
+        "areaId": 3,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "d0e91f25-9a6c-4cb3-9039-31efdbc65b25",
+        "username": "宋伟科",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "d785303f-75f6-4359-b44e-caa551eae2e4",
+        "username": "石滩",
+        "areaId": 6,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    },
+    {
+        "_id": "e70ed552-6072-40d1-8f41-c89e4145c2f9",
+        "username": "黄田方",
+        "areaId": 1,
+        "phone": "18825049966(虚拟号码)",
+        "password": "123456",
+        "regTime": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "updatedAt": {
+            "$date": "2020-09-29T23:09:02.095638.000Z"
+        },
+        "accessTypes": [
+            "hczc"
+        ],
+        "roleId": 2
+    }
+]
